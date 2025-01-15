@@ -23,8 +23,8 @@ My journey in the tech world has been fueled by curiosity, dedication, and a des
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
 
 - Email: matin.kateb.mk@gmail.com
-- LinkedIn: www.linkedin.com/in/mohammad-matin-kateb
-- GitHub: matin4kateb
+- LinkedIn: linkedin.com/in/mohammad-matin-kateb
+- GitHub: github.com/matin4kateb
 
 Thank you for visiting my profile!
 
