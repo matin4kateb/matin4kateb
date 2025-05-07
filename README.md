@@ -15,7 +15,7 @@ My journey in the tech world has been fueled by curiosity, dedication, and a des
 
 ## Skills
 - **Operating Systems**: Linux (Kali, Debian, Ubuntu, CentOS, Fedora)
-- **Programming Languages**: Python, C/C++, PHP
+- **Programming Languages**: Python, C/C++, PHP(+ Laravel Framework)
 - **Databases**: MySQL, SQLite, SQL Server
 - **Networking**: Networking concepts and protocols
 
