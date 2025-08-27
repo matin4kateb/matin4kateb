@@ -1,8 +1,7 @@
 # Welcome to My GitHub Profile
 
 ## About Me
-Hello! I am **Mohammad Matin Kateb**, a passionate computer engineering graduate with a strong interest in computer networks and cyber security. 
-My journey in the tech world has been fueled by curiosity, dedication, and a desire to make a positive impact in the field of information security.
+Hello! I am **Mohammad Matin Kateb**, a passionate computer engineering graduate with a strong interest in computer networks. 
 
 ## Education
 - **Bachelor of Computer Engineering**
@@ -11,10 +10,9 @@ My journey in the tech world has been fueled by curiosity, dedication, and a des
 
 ## Interests
 - **Computer Networks**: I am fascinated by the intricacies of network design, protocols, and communication technologies that keep the digital world connected.
-- **Cyber Security**: My passion for cyber security drives me to explore ways to protect information systems, identify vulnerabilities, and develop effective security measures.
 
 ## Skills
-- **Operating Systems**: Linux (Kali, Debian, Ubuntu, CentOS, Fedora)
+- **Operating Systems**: Linux (Debian, Ubuntu, CentOS, Fedora)
 - **Programming Languages**: Python, C/C++, PHP(+ Laravel Framework)
 - **Databases**: MySQL, SQLite, SQL Server
 - **Networking**: Networking concepts and protocols
