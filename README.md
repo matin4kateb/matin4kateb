@@ -1,29 +1,26 @@
-# Welcome to My GitHub Profile
+# 👋 Welcome to My GitHub Profile
 
-## About Me
-Hello! I am **Mohammad Matin Kateb**, a passionate computer engineering graduate with a strong interest in computer networks. 
-
-## Education
-- **Bachelor of Computer Engineering**
-  - University: IAU
-  - Graduation Year: 2024
-
-## Interests
-- **Computer Networks**: I am fascinated by the intricacies of network design, protocols, and communication technologies that keep the digital world connected.
-
-## Skills
-- **Operating Systems**: Linux (Debian, Ubuntu, CentOS, Fedora)
-- **Programming Languages**: Python, C/C++, PHP(+ Laravel Framework)
-- **Databases**: MySQL, SQLite, SQL Server
-- **Networking**: Networking concepts and protocols
-
-## Contact
-Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
-
-- Email: matin.kateb.mk@gmail.com
-- LinkedIn: linkedin.com/in/matin-kateb
-- GitHub: github.com/matin4kateb
-
-Thank you for visiting my profile!
+## 🧑‍💻 About Me
+Hi! I'm **Mohammad Matin Kateb**, an MSc student passionate about **computer networks**, **application security**, and **software engineering**.  
+I enjoy learning, building, and sharing projects related to networking and cybersecurity.
 
 ---
+
+## 🎓 Education
+- **B.Sc. in Computer Engineering**  
+  *IAU* — *Graduated in 2024*  
+- **M.Sc. in Software Engineering**  
+  *Shahrekord University*
+
+---
+
+## 📫 Contact
+Feel free to reach out if you’d like to collaborate, discuss ideas, or just connect!
+
+- 📧 **Email:** [matin.kateb.mk@gmail.com](mailto:matin.kateb.mk@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/matin-kateb](https://linkedin.com/in/matin-kateb)  
+- 💻 **GitHub:** [github.com/matin4kateb](https://github.com/matin4kateb)
+
+---
+
+⭐ *Thanks for visiting my profile! Have a great day!*
